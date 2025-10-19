@@ -1,11 +1,11 @@
-# Privacy Policy for EGO Security Research Platform
+# Privacy Policy for LivingArchive Security Research Platform
 
 **Last Updated:** October 19, 2025  
 **Effective Date:** October 19, 2025
 
 ## 1. Introduction
 
-The EGO Security Research Platform ("EGO," "we," "us," or "our") is committed to protecting the privacy and security of all data processed through our AI-powered cybersecurity research and automation platform. This Privacy Policy explains how we collect, use, store, and protect information in connection with our services.
+The LivingArchive Security Research Platform ("LivingArchive," "we," "us," or "our") is committed to protecting the privacy and security of all data processed through our AI-powered cybersecurity research and automation platform. This Privacy Policy explains how we collect, use, store, and protect information in connection with our services.
 
 ## 2. Information We Collect
 
