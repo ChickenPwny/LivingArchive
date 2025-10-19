@@ -1,11 +1,3 @@
-It sounds like you need to make two major changes to your privacy policy:
-1.  **Eliminate the hard data retention limits** to align with your goal of keeping what you gather for long-term research and model training.
-2.  **Focus the document purely on the platform's function and data processing**, removing specific organizational details (like contact names and addresses) to maintain confidentiality.
-
-Here is the refactored, consolidated Privacy Policy in a single block, with the requested changes implemented:
-
-***
-
 ## Privacy Policy for LivingArchive Security Research Platform
 
 **Last Updated:** October 19, 2025
